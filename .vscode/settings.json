@@ -9,6 +9,6 @@
   },
   "C_Cpp.intelliSenseEngine": "Tag Parser",
   "C_Cpp.default.compilerPath": "C:\\Users\\Pedro\\.espressif\\tools\\xtensa-esp32-elf\\esp-2020r3-8.4.0\\xtensa-esp32-elf\\bin\\xtensa-esp32-elf-gcc.exe",
-  "idf.portWin": "COM5",
+  "idf.portWin": "COM6",
   "idf.flashType": "UART"
 }
